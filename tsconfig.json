@@ -1,11 +1,13 @@
 {
     "compilerOptions": {
       "target": "es5",
-      "lib": ["es5", "dom"],
+      "lib": ["es5", "dom", "es2015"],
       "types": ["cypress"],
       "resolveJsonModule": true
     },
     "include": [
       "**/*.ts"
-, "cypress/support/commands.ts"    ]
+,
+      "cypress/support/Base.ts"
+    ]
   }

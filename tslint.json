@@ -4,6 +4,17 @@
         "tslint:recommended"
     ],
     "jsRules": {},
-    "rules": {},
-    "rulesDirectory": []
+    "rules":
+        {
+        "max-line-length": {
+        "options": [180]
+            },
+            "no-unused-expression": "off"
+        },
+    "rulesDirectory": [],
+    "no-console": {
+        "severity": "warning",
+        "options": ["debug", "info", "log", "time", "timeEnd", "trace"]
+    }
+
 }
