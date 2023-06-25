@@ -5,25 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ddf464e9-f210-49c4-a931-fc37f034795c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cypress.config.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cypress/e2e/elucidate.search.cy.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cypress/objects/SearchPageSelectors.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cypress.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cypress/integration/test.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cypress/support/commands.ts" beforeDir="false" afterPath="$PROJECT_DIR$/cypress/support/commands.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cypress/support/global.d.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cypress/support/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/cypress/support/e2e.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cypress/support/navigation.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cypress/support/pages/brandingPage.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cypress/support/pages/contactPage.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cypress/support/pages/loginPage.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cypress/support/pages/roomPage.ts" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/cypress/data.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cypress.config.ts" beforeDir="false" afterPath="$PROJECT_DIR$/cypress.config.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cypress/e2e/elucidate.search.cy.ts" beforeDir="false" afterPath="$PROJECT_DIR$/cypress/e2e/elucidate.search.cy.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cypress/fixtures/account/common.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cypress/objects/SearchPageSelectors.ts" beforeDir="false" afterPath="$PROJECT_DIR$/cypress/objects/SearchPageSelectors.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cypress/support/commands.ts" beforeDir="false" afterPath="$PROJECT_DIR$/cypress/support/Base.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cypress/support/e2e.js" beforeDir="false" afterPath="$PROJECT_DIR$/cypress/support/e2e.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/tsconfig.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tslint.json" beforeDir="false" afterPath="$PROJECT_DIR$/tslint.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,21 +42,21 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/Users/muhammadraufqureshi/Documents/Exp/ monitor.elucidate.co/cypress/objects",
+    "last_opened_file_path": "/Users/muhammadraufqureshi/Documents/Exp/CypressAutomation/cypress",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "ts.external.directory.path": "/Applications/IntelliJ IDEA.app/Contents/plugins/javascript-impl/jsLanguageServicesImpl/external",
+    "ts.external.directory.path": "/Users/muhammadraufqureshi/Documents/Exp/CypressAutomation/node_modules/typescript/lib",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/cypress" />
       <recent name="$PROJECT_DIR$/cypress/objects" />
       <recent name="$PROJECT_DIR$" />
-      <recent name="$PROJECT_DIR$/cypress" />
       <recent name="$PROJECT_DIR$/cypress/fixtures" />
     </key>
   </component>
