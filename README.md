@@ -7,7 +7,7 @@ It was recommend to timebox my challenge to 2 hours
 
 With all things considered I did try to implement basic user journey. 
 
-<img width="600" alt="XXX" src="https://www.monkeyuser.com/assets/images/2022/248-unit-tests.png" class="center">
+<img width="600" alt="XXX" src="https://www.monkeyuser.com/2022/unit-tests/248-unit-tests.png" class="center">
 
 ### Table of Contents
 
